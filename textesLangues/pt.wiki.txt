@@ -1,0 +1,294 @@
+
+Relatividade geral
+Origem: Wikipédia, a enciclopédia livre.
+
+Einstein, autor da teoria da relatividade, em 11 de fevereiro de 1948
+Em Física, a relatividade geral [1] é a generalização da Teoria da gravitação de Newton, publicada em 1915 por Albert Einstein. A nova teoria leva em consideração as ideias descobertas na Relatividade restrita sobre o espaço e o tempo e propõe a generalização do princípio da relatividade do movimento para sistemas que incluam campos gravitacionais. Esta generalização tem implicações profundas no nosso conhecimento do espaço-tempo, levando, entre outras conclusões, a de que a matéria (energia) curva o espaço e o tempo à sua volta. Isto é, a gravitação é um efeito da geometria do espaço-tempo.
+
+Muitas previsões da relatividade geral diferem significativamente das da física clássica, especialmente no que respeita à passagem do tempo, a geometria do espaço, o movimento dos corpos em queda livre, e a propagação da luz. Exemplos de tais diferenças incluem dilatação gravitacional do tempo, o desvio gravitacional para o vermelho da luz, e o tempo de atraso gravitacional. Previsões da relatividade geral foram confirmadas em todas as observações e experimentos até o presente. Embora a relatividade geral não seja a única teoria relativística da gravidade, é a mais simples das teorias que são consistentes com dados experimentais. No entanto, há questões ainda sem resposta, sendo a mais fundamental delas explicar como a relatividade geral pode ser conciliada com as leis da física quântica para produzir uma teoria completa e auto-consistente da gravitação quântica.
+
+A teoria de Einstein tem importantes implicações astrofísicas. Ela aponta para a existência de buracos negros - regiões no espaço onde o espaço e o tempo são distorcidos de tal forma que nada, nem mesmo a luz, pode escapar - como um estado final para as estrelas maciças . Há evidências de que esses buracos negros estelares, bem como outras variedades maciças de buracos negros são responsáveis pela intensa radiação emitida por certos tipos de objetos astronômicos, tais como núcleos ativos de galáxias ou microquasares. O desvio da luz pela gravidade pode levar ao fenômeno de lente gravitacional, onde várias imagens do mesmo objeto astronômico distante são visíveis no céu. A relatividade geral também prevê a existência de ondas gravitacionais, que já foram medidas indiretamente; uma medida direta, no final de 2015, por pesquisadores do projeto LIGO (Laser Interferometer Gravitational-Wave Observatory) confirmou as "distorções no espaço e no tempo" causadas por um par de buracos negros com 30 massas solares em processo de fusão.[2][3][4][5]. Além disso, a relatividade geral é a base dos atuais modelos cosmológicos de um universo sempre em expansão.
+
+Índice  [esconder]
+1	Preliminares conceituais
+2	Princípio da Relatividade Geral
+2.1	Avanço do periélio de Mercúrio
+3	A ligação com a geometria
+3.1	Geometria do espaço-tempo
+3.2	Curvatura do espaço-tempo
+4	Matemática da relatividade geral
+5	Soluções da equação de Einstein
+6	Situação atual
+7	Ver também
+8	Referências
+9	Ligações externas
+Preliminares conceituais[editar | editar código-fonte]
+Question book.svg
+Esta seção não cita fontes confiáveis e independentes, o que compromete sua credibilidade. Por favor, adicione referências e insira-as corretamente no texto ou no rodapé. Conteúdo sem fontes poderá ser removido.
+—Encontre fontes: Google (notícias, livros e acadêmico)
+Uma das descobertas mais importantes do século XX, feita por Einstein, é a de que podemos apresentar as leis da Física na forma de uma geometria quadridimensional, em que o tempo é uma dimensão adicional às três dimensões espaciais a que estamos habituados (como as coordenadas x,y e z).
+
+Das ideias que levaram à Relatividade restrita, sem dúvida a mais importante para se entender o papel da gravitação na Física é a ideia, chamada de princípio da relatividade, de que as leis da física devem ser escritas da mesma forma em qualquer referencial inercial. Este princípio deve ser obedecido por qualquer lei da Física que venha a ser expressa nesse contexto.
+
+Einstein supôs que a gravidade, devido ao princípio da equivalência entre massa inercial e gravitacional, seria um tipo de força inercial, isto é, do tipo que aparece em sistemas não inerciais (em movimento acelerado), como, por exemplo, a força centrífuga em um carrossel, ou a força que o empurra para trás durante a aceleração de um trem.
+
+Com esta ideia em mente, e generalizando a ideia da Relatividade restrita, Einstein propôs que:
+
+As leis da física devem ser escritas da mesma forma em qualquer sistema de coordenadas, em movimento uniforme ou não.
+É por esta via da covariância sob mudança de coordenadas generalizadas que a gravitação se acopla ao eletromagnetismo e à mecânica clássica, para os quais foi direcionado o desenvolvimento inicial da Relatividade restrita.
+
+Princípio da Relatividade Geral[editar | editar código-fonte]
+O postulado base da Teoria da Relatividade Geral, chamado de Princípio da equivalência, especifica que sistemas acelerados e sistemas submetidos a campos gravitacionais são fisicamente equivalentes. Nas próprias palavras de Einstein em seu trabalho de 1915:
+
+Nós iremos portanto assumir a completa equivalência física entre um campo gravitacional e a correspondente aceleração de um sistema de referência. Esta hipótese estende o princípio da relatividade especial para sistemas de referência uniformemente acelerados.
+Por esse princípio, uma pessoa numa sala fechada, acelerada por um foguete com a mesma aceleração que a da gravidade na Terra ( {\displaystyle 9,8184m/s^{2}} {\displaystyle 9,8184m/s^{2}}), não poderia descobrir se a força que a prende ao chão tem origem no campo gravitacional terrestre ou se é devida à aceleração da própria sala através do espaço e vice-versa. Uma pessoa em uma sala em órbita ou queda livre em direção a um planeta não saberá dizer por observação local se encontra em órbita ao redor de um planeta ou no espaço profundo, longe de qualquer corpo celeste. Esse experimento mental é conhecido na literatura como o elevador de Einstein.
+
+Esse princípio é válido apenas para vizinhanças pequenas do ponto considerado, e determina o chamado referencial localmente inercial através de uma lei de transformação entre o referencial do observador (genérico) e um em que a Física se assemelha àquela da Relatividade restrita.
+
+Uma consequência importante do Princípio da Equivalência é a identificação entre os conceitos de massa inercial e massa gravitacional. Embora isso pareça óbvio, conceitualmente elas são distintas. A massa inercial é aquela expressa na segunda lei de Newton, {\displaystyle {\vec {F}}=m{\vec {a}}} {\displaystyle {\vec {F}}=m{\vec {a}}}, e corresponde à resistência dos corpos em mudar seu estado de movimento relativo. A massa gravitacional é aquela da lei da gravitação universal de Newton, e corresponde à capacidade que um corpo tem de atrair outro. Identificando um referencial acelerado a uma força gravitacional, esses conceitos se confundem, e as massas se tornam a mesma entidade. A diferença medida experimentalmente entre elas é inferior, em proporção, a {\displaystyle 10^{-9}} 10^{-9}.
+
+O Princípio da Equivalência tem, portanto, como principal consequência, a equivalência entre massa gravitacional e inercial.
+
+Avanço do periélio de Mercúrio[editar | editar código-fonte]
+Na física newtoniana, sob as hipóteses padrões da astrodinâmica um sistema com dois corpos de um objeto solitário orbitando uma massa esférica iria traçar uma elipse, que na verdade foi elaborada por Kepler no século XVII; com a massa esférica no foco do sistema. O ponto de maior aproximação, denominado periastro (e para o Sistema Solar em particular, periélio), é fixo. Existem inúmeros efeitos presentes em nosso sistema solar que causam a precessão do periélio dos planetas que translam em torno do Sol. Estes efeitos são principalmente por causa da presença de outros planetas, que perturbam suas órbitas mutuamente. Outro efeito é a oblitude solar, que produz apenas uma pequena contribuição. A taxa anômala de precessão do periélio da órbita de Mercúrio foi reconhecida primeiramente em 1859 como um problema da mecânica celeste, por Urbain Le Verrier. Sua reanálise das observações do trânsito de Mercúrio disponíveis sobre o disco solar entre 1697 e 1848 mostrou que a taxa atual da precessão estava em desacordo com a calculada a partir da teoria de Newton, por uma quantidade estimada inicialmente como 38 segundos de arco por século e posteriormente estimada em 43 segundos de arco.[6] Na teoria da relatividade geral, esta precessão remanescente, ou mudança na orientação da elipse orbital dentro de seu plano orbital, é explicada pela gravitação sendo mediada pela curvatura do espaço tempo. Einstein demonstrou que a relatividade geral predizia exatamente a diferença observada no periélio mercuriano. Este foi um poderoso fator motivante para a adoção da teoria de Einstein.
+
+Embora as medições anteriores das órbitas dos planetas terem sido feitas com telescópios convencionais, as mais exatas medições são feitas atualmente com radares. A precessão total observada de Mercúrio é de 5600 arcos de segundo por século em relação à posição do equinocio primaveril do sol. Esta precessão é devida às seguintes causas (os números são cotados para os valores modernos):
+
+Fontes da precessão do periélio de Mercúrio
+Quantidade (arcsec/século)	Causa
+5025,6	Coordenadas (devido a precessão dos equinócios)
+531,4	Gravidade de outros planetas
+0,0254	Oblitude do Sol (momento quadrulopo)
+42,98±0,04	Relatividade geral
+5600,0	Total
+5599,7	Observada
+Assim, a predição da relatividade geral justifica a precessão faltante, com a discrepância restante incluída no erro observado. Todos os outros planetas experimentam mudanças no periélio; porém, uma vez que estão mais afastados do sol e têm velocidades menores, suas mudanças são menores e mais difíceis de observar. Por exemplo, o periélio da órbita terrestre é afetado em aproximadamente 5 arcos de segundo por século.
+
+A ligação com a geometria[editar | editar código-fonte]
+Question book.svg
+Esta página ou secção não cita fontes confiáveis e independentes, o que compromete sua credibilidade (desde junho de 2010). Por favor, adicione referências e insira-as corretamente no texto ou no rodapé. Conteúdo sem fontes poderá ser removido.
+—Encontre fontes: Google (notícias, livros e acadêmico)
+O Princípio da Equivalência põe em pé de igualdade todos os referenciais. Uma consequência disso é que um observador movendo-se livremente em seu referencial pode ver-se em um estado de movimento diferente do visto por um observador em outro ponto do espaço. Voltando ao exemplo do elevador: um observador dentro de uma nave espacial em órbita se vê completamente livre de forças inerciais, o que para ele significa que o seu referencial é localmente inercial (em repouso, ou movendo-se uniformemente, segundo a primeira lei de Newton). Um observador na Terra constata que a nave não está em movimento retilíneo, mas em órbita ao redor da Terra.
+
+A maneira de se lidar com essas diferenças é escrever em um referencial genérico a equação de movimento observada no referencial localmente inercial, através da equação que determina a transformação de referenciais.
+
+No referencial localmente inercial, não há acelerações nas trajetórias das partículas, o que significa:
+
+{\displaystyle {\frac {\partial ^{2}x_{\mu }}{\partial \tau ^{2}}}=0} {\displaystyle {\frac {\partial ^{2}x_{\mu }}{\partial \tau ^{2}}}=0}
+onde {\displaystyle \mu } \mu  é um índice que varia de 0 a 3, sendo {\displaystyle x_{0}} x_0 a coordenada do tempo, e {\displaystyle x_{1}} x_1, {\displaystyle x_{2}} x_2 e {\displaystyle x_{3}} x_{3} as coordenadas espaciais, e {\displaystyle \tau } \tau é o tempo próprio do referencial.
+
+A equação que rege a mudança de referenciais é genericamente escrita como:
+
+{\displaystyle dx_{\mu }^{\prime }={\frac {\partial x_{\mu }^{\prime }}{\partial x^{\nu }}}dx^{\nu }} {\displaystyle dx_{\mu }^{\prime }={\frac {\partial x_{\mu }^{\prime }}{\partial x^{\nu }}}dx^{\nu }}
+que corresponde ao jacobiano associado à mudança de coordenadas.
+
+Aplicando essa lei de transformação na equação de movimento, resulta:
+
+{\displaystyle {\frac {\partial ^{2}x^{\mu }}{\partial \tau ^{2}}}+\Gamma _{\alpha \beta }^{\mu }{\frac {\partial x^{\alpha }}{\partial \tau }}{\frac {\partial x^{\beta }}{\partial \tau }}=0} {\displaystyle {\frac {\partial ^{2}x^{\mu }}{\partial \tau ^{2}}}+\Gamma _{\alpha \beta }^{\mu }{\frac {\partial x^{\alpha }}{\partial \tau }}{\frac {\partial x^{\beta }}{\partial \tau }}=0}
+Essa é a equação da geodésica, que nada mais é do que a equação de movimento de um corpo em um referencial genérico. Ou seja, se em um referencial localmente inercial um corpo executa movimento retilíneo uniforme, em um referencial genérico o mesmo corpo percorrerá ao longo do espaço-tempo uma curva chamada de geodésica, que não necessariamente é uma linha reta nesse referencial.
+
+O objeto {\displaystyle \Gamma _{\alpha \beta }^{\mu }} {\displaystyle \Gamma _{\alpha \beta }^{\mu }} que aparece na equação da geodésica é chamado de conexão (um dos símbolos de Christoffel), e representa uma medida de quanto um dado referencial não é inercial. Nos referenciais inerciais as conexões são sempre iguais a zero.
+
+Assim, uma vez que as geodésicas são diferentes, as geometrias do espaço-tempo nos dois casos são diferentes. Isso é uma característica puramente geométrica do espaço-tempo, que deve ser expressa em função apenas das suas propriedades.
+
+Geometria do espaço-tempo[editar | editar código-fonte]
+
+Geodésica no espaço-tempo de uma partícula parada em um ponto do plano x-y
+A ideia importante para se entender a fundo os conceitos básicos da Relatividade geral é entender o que significa o movimento de um corpo neste espaço-tempo de 4 dimensões. Não existe movimento espacial sem movimento temporal. Isto é, no espaço-tempo não é possível a um corpo se mover nas dimensões espaciais sem se deslocar no tempo. Mas mesmo quando não nos movemos espacialmente, estamos nos movendo na dimensão temporal (no tempo). Mesmo sentados em nossa cadeira lendo este artigo, estamos nos movendo no tempo, para o futuro. Este movimento é tão válido na geometria do espaço-tempo quanto os que estamos habituados a ver em nosso dia a dia. Portanto, no espaço-tempo estamos sempre em movimento, e a nossa ideia de estar parado significa apenas que encontramos uma forma de não nos deslocarmos nas direções espaciais mas apenas no tempo (veja o exemplo deste tipo de geodésica na figura ao lado).
+
+Essa afirmação é importantíssima, e merece esclarecimentos. O motivo é simples: no plano espacial, se um objeto se desloca de um ponto ao outro sem se deslocar na direção temporal, a velocidade deste deslocamento será infinita, já que a velocidade inclui um deslocamento pelo intervalo de tempo, que neste caso seria zero. E da Teoria da Relatividade especial sabe-se que a maior velocidade possível para algo material, no nosso universo, é a velocidade da luz. Portanto este resultado da Relatividade especial cria imediatamente no nosso espaço-tempo duas regiões distintas: uma região a que podemos ter acesso (chamada de tipo tempo), e regiões às quais não podemos ter acesso imediato (chamadas de tipo espaço). Isto é uma característica diferente da de um espaço de 4 dimensões qualquer, por exemplo, onde não temos restrição alguma entre as regiões do espaço, nem uma direção especial.
+
+A relatividade restrita, portanto, impõe sobre a geometria do espaço-tempo uma restrição fundamental e diversa do que esperaríamos de um espaço euclidiano de quatro dimensões, por exemplo. Esta diferença se reflete na estrutura básica da geometria.
+
+Podemos mostrar como estas diferenças se refletem na noção de distância, que na Relatividade Especial é chamada de intervalo, para não invocar a mesma ideia de distância euclidiana. Se quisermos medir a distância entre dois pontos em um espaço de 3 dimensões, usamos a fórmula de Pitágoras:
+
+{\displaystyle s^{2}=(x_{1}-x_{2})^{2}+(y_{1}-y_{2})^{2}+(z_{1}-z_{2})^{2}} {\displaystyle s^{2}=(x_{1}-x_{2})^{2}+(y_{1}-y_{2})^{2}+(z_{1}-z_{2})^{2}}
+Incluindo o tempo para termos o espaço-tempo, poderíamos imaginar uma fórmula equivalente para a distância entre dois pontos:
+
+{\displaystyle s^{2}=c^{2}(t_{1}-t_{2})^{2}+(x_{1}-x_{2})^{2}+(y_{1}-y_{2})^{2}+(z_{1}-z_{2})^{2}} {\displaystyle s^{2}=c^{2}(t_{1}-t_{2})^{2}+(x_{1}-x_{2})^{2}+(y_{1}-y_{2})^{2}+(z_{1}-z_{2})^{2}}
+Note que tivemos o cuidado de multiplicar o termo temporal por c, a velocidade da luz no vácuo, para termos um comprimento, uma vez que não faz sentido somar tempo com distância. Para pontos muito próximos (lembre-se que temos que manter nossa análise local para podermos garantir que estamos em um referencial inercial), podemos escrever.
+
+{\displaystyle \Delta s^{2}=c^{2}(\Delta t)^{2}+(\Delta x)^{2}+(\Delta y)^{2}+(\Delta z)^{2}=c^{2}(\Delta t)^{2}+(\Delta {\vec {x}})^{2}} {\displaystyle \Delta s^{2}=c^{2}(\Delta t)^{2}+(\Delta x)^{2}+(\Delta y)^{2}+(\Delta z)^{2}=c^{2}(\Delta t)^{2}+(\Delta {\vec {x}})^{2}}
+Mas isto não reflete a característica essencial do espaço-tempo que estamos discutindo. A distância acima é simplesmente a distância em espaço euclidiano de 4 dimensões. O que sabemos é que as velocidades espaciais possíveis são sempre menores que a velocidade da luz:
+
+{\displaystyle \left|{\frac {d}{dt}}{\vec {x}}\right|\leq c} {\displaystyle \left|{\frac {d}{dt}}{\vec {x}}\right|\leq c}
+E isto, de certa forma, deve ser refletido pela geometria que estamos procurando. E está, como iremos demonstrar. Elevando ao quadrado para eliminar o módulo acima, e reorganizando os termos, podemos escrever nossa restrição como:
+
+{\displaystyle (d{\vec {x}})^{2}\leq c^{2}dt^{2}} {\displaystyle (d{\vec {x}})^{2}\leq c^{2}dt^{2}}
+Repare que a expressão acima é o equivalente matemático do que acabamos de dizer: deslocamentos espaciais válidos devem ser menores que c dt para que a velocidade do deslocamento seja menor que a da luz. Comparando esta expressão com a da distância em um espaço euclidiano, dada acima, vemos uma semelhança. Podemos entender agora que o termo ds :
+
+{\displaystyle ds^{2}=c^{2}dt^{2}-d{\vec {x}}^{2}\geq 0} {\displaystyle ds^{2}=c^{2}dt^{2}-d{\vec {x}}^{2}\geq 0}
+pode ser utilizado como definição para o cálculo de intervalos no espaço-tempo.
+
+Para completar, precisamos agora entender como esta medida de intervalos pode ser generalizada para um sistema de coordenadas qualquer.
+
+Em quatro dimensões, usando a notação de Einstein para somas de vetores, podemos escrever o intervalo como sendo o seguinte:
+
+{\displaystyle ds^{2}=g_{\mu \nu }dx^{\mu }dx^{\nu }} {\displaystyle ds^{2}=g_{\mu \nu }dx^{\mu }dx^{\nu }}
+que nada mais é do que o teorema de Pitágoras generalizado a quatro dimensões. No caso da Relatividade restrita, o tensor métrico {\displaystyle g_{\mu \nu }} {\displaystyle g_{\mu \nu }} é dado pela seguinte matriz:
+
+{\displaystyle g_{\mu \nu }=\eta _{\mu \nu }={\begin{bmatrix}1&0&0&0\\0&-1&0&0\\0&0&-1&0\\0&0&0&-1\end{bmatrix}}} {\displaystyle g_{\mu \nu }=\eta _{\mu \nu }={\begin{bmatrix}1&0&0&0\\0&-1&0&0\\0&0&-1&0\\0&0&0&-1\end{bmatrix}}}
+Na relatividade geral, a presença de matéria e energia altera os termos dessa matriz, alterando a métrica do espaço-tempo. É importante notar que a métrica é uma característica do espaço-tempo e não do referencial; o que muda ao se passar de um sistema de coordenadas para outro é a expressão da métrica no sistema de coordenadas. Assim, ela é invariante para todos os referenciais.
+
+Podemos assim determinar uma expressão para as conexões que depende unicamente da métrica em cada ponto.
+
+No entanto, para todo ponto no espaço-tempo podemos definir um referencial localmente inercial, que tem a conexão igual a zero. Para medir precisamente a diferença entre a geometria de um ponto a outro, é necessário que sejam analisadas as derivadas das conexões.
+
+Curvatura do espaço-tempo[editar | editar código-fonte]
+
+Geódesica no espaço-tempo de uma partícula próxima a um corpo material
+
+Uma analogia para a curvatura do espaço-tempo (2D) causada por uma massa. Uma analogia mais precisa, seria imaginar a parte vermelha em todos os eixos Y da imagem. A imagem representa somente um valor no vetor Y.
+Imaginemos agora um observador no espaço profundo. Suponha que ele esteja parado, isto é, em um movimento geodésico que é uma linha reta diretamente para o futuro. Se agora colocarmos instantaneamente ao seu lado uma massa suficientemente grande, a deformação que esta massa causará no espaço-tempo em sua vizinhança irá curvar e alterar as coordenadas originais do espaço-tempo no local. O efeito é que aquele movimento que era apenas uma linha reta na direção temporal agora passará a ocorrer também nas novas coordenadas espaciais. A linha se curva e se enrola em torno do corpo enquanto ele se move na direção do tempo futuro. E nosso observador começa a se mover espacialmente devido à distorção da geometria causada pela massa, não devido à presença de uma força. Isto era o efeito que se costuma chamar de gravidade mas que, à luz desta teoria, é uma distorção da geometria do espaço-tempo devido à presença de uma massa.
+
+Para ajudar a entender intuitivamente o conceito de curvatura do espaço-tempo por um objeto massivo é comum usar-se uma analogia com a deformação causada por uma bola pesada numa membrana elástica. (É evidentemente uma representação um tanto «fantasiosa», pois mostra apenas a curvatura espacial de um espaço de duas dimensões, sem levar em consideração o efeito do tempo.) Quanto maior for a massa do objeto, maior será a curvatura da membrana. Se colocarmos perto da cova criada um objeto mais leve, como uma bola de ping-pong, ela cairá em direção à bola maior. Se, em vez disso, atirarmos a bola de ping-pong a uma velocidade adequada em direção ao poço, ela ficará a "orbitar" em torno da bola pesada, desde que o atrito seja pequeno. E isto é, de algum modo, análogo ao que acontece quando a Lua orbita em torno da Terra, por exemplo.
+
+Na relatividade geral, os fenômenos que na mecânica clássica se considerava serem o resultado da ação da força da gravidade, são entendidos como representando um movimento inercial num espaço-tempo curvo. A massa da Terra encurva o espaço-tempo e isso faz com que tenhamos tendência para cair em direção ao seu centro.
+
+O ponto essencial é entender que não existe nenhuma «força da gravidade» atuando à distância. Na relatividade geral, não existe ação à distância e a gravidade não é uma força mas sim uma deformação geométria do espaço encurvado pela presença nele de massa, energia ou momento. E uma geodésica é o caminho mais curto entre dois pontos, numa determinada geometria. É a trajetória que segue no espaço-tempo um objeto em queda livre, ou seja, livre da ação de forças externas. Por isso, a trajetória orbital de um planeta em volta de uma estrela é a projeção num espaço 3D de uma geodésica da geometria 4D do espaço-tempo em torno da estrela.
+
+Se os objetos tendem a cair em direção ao solo é apenas devido à curvatura do espaço-tempo causada pela Terra. Quando um objeto foi lançado no ar, ele sobe e depois cai. Mas não é porque haja uma força a puxá-lo para baixo. Segundo Einstein, o objeto segue apenas uma geodésica num espaço-tempo curvo. Quando está no ar, não há nenhuma força a agir sobre ele, exceto a da resistência do ar. Se o vemos a acelerar, é porque, quando estamos parados em cima do solo, a nossa trajetória não segue uma «linha reta» (uma geodésica), porque há uma força que age sobre nós: a força do solo a puxar-nos para cima. Aquilo a que chamamos «força da gravidade» resulta apenas do fato de a superfície da Terra nos impedir de cair em queda-livre segundo a linha geodésica que a curvatura do espaço-tempo nos impõe. Aquilo a que chamamos «força da gravidade» é apenas o resultado de estarmos submetidos a uma aceleração física contínua causada pela resistência mecânica da superfície da Terra. A sensação de peso que temos resulta do fato de a superfície da Terra nos «empurrar para cima».
+
+Uma pessoa que cai de um telhado de uma casa não sente, durante a queda, nenhuma força gravitacional. Sente-se «sem peso». Se largar um objeto, ele flutuará a seu lado, exatamente com a mesma aceleração constante (na ausência da resistência do ar).
+
+Mas, como já se explicou, a analogia apresentada dificilmente se pode considerar uma boa representação do que realmente acontece. O exemplo que apresentamos anteriormente permite elucidar de um modo mais correto a curvatura do espaço-tempo, através de efeitos sobre as linhas geodésicas. Em cada ponto do espaço disparamos ou apenas soltamos uma pequena massa de prova e observamos a sua trajetória. De um ponto de seu referencial inercial dispare uma massa em cada um dos seus eixos de coordenadas espaciais e observe: obviamente, se elas continuarem indefinidamente em linha reta, você estará em um espaço-tempo plano (espaço de Minkowski). Caso contrário, as trajetórias poderão lhe dar informações sobre a curvatura na região. Esta é a melhor maneira pela qual podemos esperar descrever um objeto que possui 4 dimensões para seres que vivem em apenas 3 dimensões.
+
+Matemática da relatividade geral[editar | editar código-fonte]
+Ver artigo principal: Matemática da relatividade geral
+Para estender as leis da física para o contexto de sistemas de coordenadas gerais, um extenso arsenal de ferramentas matemáticas deve ser dominado. Mesmo antes do advento da Relatividade Geral, na mecânica clássica, por exemplo, uma quantidade enorme de trabalhos foram desenvolvidos para se trabalharem os sistemas físicos em diversos sistemas de coordenadas: sistemas de coordenadas cartesianas, esféricas, cilíndricas, etc. Apesar dos nomes, nenhum destes sistemas de coordenadas utilizados na Física Matemática é geral o bastante para causar alteração na geometria. Eles são formas de se aproveitarem as simetrias do problema e ajudam, portanto, a simplificar a solução. Na Relatividade Geral precisamos estender este conhecimento para transformações de coordenadas que alterem a geometria do espaço-tempo. Para isto são necessárias uma síntese e uma generalização deste conhecimento matemático em um novo cálculo, o Cálculo Tensorial. Por sorte, esta síntese estava sendo criada pelo matemático Tullio Levi-Civita, baseando-se nos trabalhos anteriores de Hamilton e Gregorio Ricci-Curbastro, na mesma época em que Einstein iniciou seu trabalho na Relatividade Geral. De fato, Einstein aprendeu os conceitos diretamente de Levi-Civitta.
+
+Com esta ferramenta nova, podemos generalizar o conceito de cálculo de intervalos do espaço-tempo, introduzindo o tensor métrico para o espaço-tempo:
+
+{\displaystyle ds^{2}=g_{\mu \nu }dx^{\mu }dx^{\nu }} {\displaystyle ds^{2}=g_{\mu \nu }dx^{\mu }dx^{\nu }}
+A notação com índices, chamada notação clássica do cálculo tensorial, possui a convenção de que índices repetidos, um superior e outro inferior, representam uma soma no conjunto de índices. No nosso caso estes índices variam de 0 até 3 para representar o tempo (índice 0), e as coordenadas espaciais. Esta é a mesma expressão que obtivemos anteriormente se escrevermos o tensor {\displaystyle g_{ij}} {\displaystyle g_{ij}} da Relatividade Restrita de forma matricial como:
+
+{\displaystyle g_{\mu \nu }=\eta _{\mu \nu }={\begin{bmatrix}1&0&0&0\\0&-1&0&0\\0&0&-1&0\\0&0&0&-1\end{bmatrix}}} {\displaystyle g_{\mu \nu }=\eta _{\mu \nu }={\begin{bmatrix}1&0&0&0\\0&-1&0&0\\0&0&-1&0\\0&0&0&-1\end{bmatrix}}}
+O ponto importante a se entender aqui é que, no espaço-tempo curvo, o tensor métrico não possui mais seus elementos constantes como acima. Eles passam a ser funções das coordenadas espaço-temporais que contêm informações sobre a geometria local. Mesmo assim, a expressão para o cálculo de intervalos ainda continua sendo escrita da mesma forma. E isto reflete a ideia básica do cálculo tensorial: permitir escrever quaisquer equações independentemente do sistema de coordenadas utilizado.
+
+O Tensor métrico é a peça fundamental da teoria da Relatividade Geral e é um tensor simétrico, isto é {\displaystyle g_{\mu \nu }=g_{\nu \mu }} {\displaystyle g_{\mu \nu }=g_{\nu \mu }}. Isto significa que em vez de termos 16 componentes {\displaystyle g_{\mu \nu }} {\displaystyle g_{\mu \nu }}, temos apenas 10 componentes independentes.
+
+O tensor métrico possui informações não só sobre como se calculam as distâncias, mas como se realizam outras operações geométricas em espaços curvos, como o transporte paralelo de vetores e outros objetos matemáticos. É através dele que se obtém a expressão para a curvatura do espaço-tempo e se obtém o Tensor de Einstein, utilizado na equação da Relatividade Geral, que sumariza a interação da geometria com a matéria:
+
+{\displaystyle G_{\mu \nu }=R_{\mu \nu }-{R \over 2}g_{\mu \nu }+\Lambda g_{\mu \nu }={-8\pi G \over c^{2}}T_{\mu \nu }} {\displaystyle G_{\mu \nu }=R_{\mu \nu }-{R \over 2}g_{\mu \nu }+\Lambda g_{\mu \nu }={-8\pi G \over c^{2}}T_{\mu \nu }}
+onde {\displaystyle G_{\mu \nu }} {\displaystyle G_{\mu \nu }} é o tensor de Einstein, {\displaystyle R_{\mu \nu }} {\displaystyle R_{\mu \nu }} são as componentes do tensor de curvatura de Ricci, {\displaystyle R} R é a curvatura escalar, {\displaystyle g_{\mu \nu }} {\displaystyle g_{\mu \nu }} são as componentes do tensor métrico, {\displaystyle \Lambda } {\displaystyle \Lambda } é a Constante cosmológica, {\displaystyle T_{\mu \nu }} {\displaystyle T_{\mu \nu }} são as componentes do tensor de tensão-energia que descreve a matéria e energia em um dado ponto do espaço-tempo e {\displaystyle G} G é a Constante de gravitação, a mesma da lei de Newton da gravidade. O tensor de Ricci e a curvatura escalar são derivados do tensor métrico, como dito acima.
+
+Soluções da equação de Einstein[editar | editar código-fonte]
+Ver artigo principal: Equações de campo de Einstein
+A primeira solução exata para a equação de Einstein foi proposta por Karl Schwarzschild na chamada Métrica de Schwarzschild, e é a solução para o caso de uma massa esférica estacionária, isto é, sem rotação da massa. Esta foi também a primeira solução que descreve um buraco negro.
+
+Soluções da equação de Einstein são obtidas a partir de uma determinada métrica. Propor uma métrica correta é uma parte importante e difícil do problema. Estas são algumas das soluções conhecidas da Equação de Einstein:
+
+Métrica de Schwarzschild.
+Métrica de Kerr, que descreve o caso de uma massa girante esférica.
+Métrica de Reissner-Nordström, para o caso de uma métrica esférica com carga elétrica.
+Métrica de Kerr-Newman, para o caso de um massa girante com carga elétrica.
+Métrica de Friedmann-Robertson-Walker (FRW), usada em cosmologia como modelo de um universo em expansão.
+Métrica de Gödel, usada em cosmologia como modelo de um universo em rotação.
+Métrica de ondas-pp que descreve vários tipos de ondas gravitacionais.
+As soluções (1), (2), (3) e (4) descrevem buracos negros.
+
+Situação atual[editar | editar código-fonte]
+A relatividade geral tem emergido como um modelo altamente bem-sucedido de gravitação e cosmologia, que até agora tem subsistido a cada prova inequívoca de observação e experimentação. Mesmo assim, há fortes indícios de que a teoria seja incompleta.[7] O problema da gravitação quântica e a questão da realidade da singularidade gravitacional permanecem abertos. Dados de observação que são tomados como prova de energia escura e matéria escura poderiam indicar a necessidade de uma nova física e, enquanto a chamada Anomalia das Pioneers ainda poderia admitir uma explicação convencional, ela também poderia ser um prenúncio de uma nova física.[8] Mesmo considerando essas questões, a relatividade geral é rica em possibilidades de exploração adicional. Matemáticos relativistas procuram entender a natureza das singularidades e das propriedades fundamentais das equações de Einstein,[9] e simulações de computador cada vez mais poderosas (como aquelas que descrevem fusão de buracos negros) são executadas.[10][11][12] Mais de noventa anos após a sua publicação, a relatividade geral continua a ser uma área muito ativa de investigação.[13]
+
+Ver também[editar | editar código-fonte]
+Relatividade restrita
+Referências
+Ir para cima ↑ Mariana Chinaglia ( "UFSCar / Revista Galileu" ) e João Mello Borroul. «5 conceitos que foram revolucionados pela Teoria da Relatividade Geral». Cópia arquivada desde o original em 13 de dezembro de 2015. Consultado em 3 de junho de 2016
+Ir para cima ↑ Castelvecchi, Davide; Witze, Witze (11 de fevereiro de 2016). «Einstein's gravitational waves found at last». Nature News. doi:10.1038/nature.2016.19361. Consultado em 1 de fevereiro de 2016
+Ir para cima ↑ B. P. Abbott et al. (LIGO Scientific Collaboration and Virgo Collaboration) (2016). «Observation of Gravitational Waves from a Binary Black Hole Merger». Physical Review Letters. 116 (6). doi:10.1103/PhysRevLett.116.061102
+Ir para cima ↑ «Gravitational waves detected 100 years after Einstein's prediction | NSF - National Science Foundation». www.nsf.gov. Consultado em 11 de fevereiro de 2016
+Ir para cima ↑ Overbye, Dennis (11 February 2016). «Physicists Detect Gravitational Waves, Proving Einstein Right». New York Times. Consultado em 11 February 2016 Verifique data em: |access-date=, |date= (ajuda)
+Ir para cima ↑ U. Le Verrier (1859), (in French), "Lettre de M. Le Verrier à M. Faye sur la théorie de Mercure et sur le mouvement du périhélie de cette planète", Comptes rendus hebdomadaires des séances de l'Académie des sciences (Paris), vol. 49 (1859), pp.379–383.
+Ir para cima ↑ Cf. Maddox 1998, pp. 52–59 and 98–122; Penrose 2004, seção 34.1 e capítulo 30.
+Ir para cima ↑ Nieto 2006.
+Ir para cima ↑ Friedrich 2005
+Ir para cima ↑ Para uma análise dos diversos problemas e as técnicas desenvolvidas para superá-los, consulte Lehner 2002.
+Ir para cima ↑ Veja Bartusiak 2000 para um relato até 2000; notícias atualizadas podem ser encontradas nos sites que investigam as colaborações mais importantes tais como GEO 600 e LIGO.
+Ir para cima ↑ Para estudos científicos mais recentes sobre as polarizações das ondas gravitacionais de binários compactos, consulte Blanchet et al. 2008, e Arun et al. 2007; para uma revisão do trabalho em binários compactos, consulte Blanchet 2006 e Futamase & Itoh 2006; para uma revisão geral dos testes experimentais da relatividade geral, consulte Will 2006.
+Ir para cima ↑ Um bom ponto de partida para uma rápida visão sobre a pesquisa atual em relatividade é a revista eletrônica Living Reviews in Relativity.
+Maddox, John (1998), What Remains To Be Discovered, Macmillan, ISBN 0-684-82292-X
+Penrose, Roger (1965), «Gravitational collapse and spacetime singularities», Physical Review Letters, 14: 57–59, doi:10.1103/PhysRevLett.14.57
+Penrose, Roger (1969), «Gravitational collapse: the role of general relativity», Rivista del Nuovo Cimento, 1: 252–276
+Penrose, Roger (2004), The Road to Reality, A. A. Knopf, ISBN 0679454438
+Nieto, Michael Martin (2006), «The quest to understand the Pioneer anomaly» (PDF), EurophysicsNews, 37(6): 30–34
+Friedrich, Helmut (2005), «Is general relativity `essentially understood'?», Annalen Phys., 15: 84–108, doi:10.1002/andp.200510173
+Lehner, Luis (2001), «Numerical Relativity: A review», Class. Quant. Grav., 18: R25–R86, doi:10.1088/0264-9381/18/17/202, Arxiv
+Lehner, Luis (2002), Numerical Relativity: Status and Prospects, Arxiv
+Bartusiak, Marcia (2000), Einstein's Unfinished Symphony: Listening to the Sounds of Space-Time, Berkley, ISBN 978-0-425-18620-6
+Blanchet, L.; Faye, G.; Iyer, B. R.; Sinha, S. (2008), The third post-Newtonian gravitational wave polarisations and associated spherical harmonic modes for inspiralling compact binaries in quasi-circular orbits, Arxiv
+Blanchet, Luc (2006), «Gravitational Radiation from Post-Newtonian Sources and Inspiralling Compact Binaries», Living Rev. Relativity, 9, consultado em 7 de agosto de 2007
+Arun, K.G.; Blanchet, L.; Iyer, B. R.; Qusailah, M. S. S. (2007), Inspiralling compact binaries in quasi-elliptical orbits: The complete 3PN energy flux, Arxiv
+Futamase, T.; Itoh, Y. (2006), «The Post-Newtonian Approximation for Relativistic Compact Binaries», Living Rev. Relativity, 10, consultado em 29 de fevereiro de 2008
+Will, Clifford M. (1993), Theory and experiment in gravitational physics, Cambridge University Press, ISBN 0-521-43973-6
+Will, Clifford M. (2006), «The Confrontation between General Relativity and Experiment», Living Rev. Relativity, consultado em 12 de junho de 2007
+Ligações externas[editar | editar código-fonte]
+Museu de Sobral no Ceará[1]: brasileiros de Sobral no Local da comprovação do desvio da luz pela massa do sol (como previsto nos calculos matematicos de Einstein) fizeram um museu que é visitado anualmente por milhares de turistas.
+Buracos Negros [2] página em inglês.[ligação inativa]
+Laurent Baulieu ; Introdução à relatividade geral, curso de introdução ministrado na Escola Politécnica por um pesquisador do Laboratário de Física Teórica de Energias "Hautes" da Universidade de Paris VI, especialista na teoria quântica do campo. (Fichier PostScript - 53 pages.)[ligação inativa]
+Luc Blanchet ; Introdução à relatividade geral (I), curso de introdução ministrado na École de Gif-sur-Yvette em 2000 por um pesquisador do Instituto de Astrofísica de Paris (Meudon), especialista na teoria de Einstein. (15 transparências no format jpeg).[ligação inativa]
+Luc Blanchet ; Introdução à relatividade geral (II), continuação do precedente. (75 transparents au format jpeg).[ligação inativa]
+Ruth Durrer ; [http://mpej.unige.ch/~durrer/courses/rela.ps.gz Relatividade Geral", aprofundado por estudantes do segundo ciclo da Universidade de Genebra (Suíça) por uma professora do Departemento de Física Teórica. (Fichier Postscript - 159 pages).[ligação inativa]
+Gerard 't Hooft ; Introdução geral da relatividade, com introduções do Colégio Caput em 1998 por prix Nobel 1999, 'chercheur' à Instituição para Física Teórica, Universidade Utrecht(Pays-Bas) (Fichier Postscript - 68 pages).[ligação inativa]
+Sean M. Carroll ; [http://fr.arxiv.org/abs/gr-qc/9712019 Leitura de notas sobre a relatividade geral", com aprofundamento em 1997 por um membro do Instituto para Física Teórica, Universidade da Califórnia em Santa Barbara (EUA) (Fichiers Postscript et pdf - 238 pages)
+Theodore A. Jacobson ; [http://www.glue.umd.edu/~tajac/spacetimeprimer.ps Um espaço-tempo primário, notas de cursantes de um professor do Departamento de Física, Universidade de Maryland (EUA) (Fichier Postscript - 42 pages).
+[Expandir]
+v • e
+Albert Einstein
+[Expandir]
+v • e
+Astronomia
+ Portal da astronomia
+Categoria: Relatividade
+Menu de navegação
+Não autenticadoDiscussãoContribuiçõesCriar uma contaEntrarArtigoDiscussãoLerEditarEditar código-fonteVer históricoBusca
+
+Pesquisar na Wikipédia
+Ir
+Página principal
+Conteúdo destacado
+Eventos atuais
+Esplanada
+Página aleatória
+Portais
+Informar um erro
+Colaboração
+Boas-vindas
+Ajuda
+Página de testes
+Portal comunitário
+Mudanças recentes
+Manutenção
+Criar página
+Páginas novas
+Contato
+Donativos
+Imprimir/exportar
+Criar um livro
+Descarregar como PDF
+Versão para impressão
+Noutros projetos
+Wikimedia Commons
+Ferramentas
+Páginas afluentes
+Alterações relacionadas
+Carregar ficheiro
+Páginas especiais
+Ligação permanente
+Informações da página
+Elemento Wikidata
+Citar esta página
+Noutros idiomas
+Alemannisch
+Brezhoneg
+Deutsch
+English
+Español
+Français
+Italiano
+Occitan
+中文
+77 outras
+Editar ligações
+Esta página foi modificada pela última vez à(s) 11h51min de 24 de fevereiro de 2017.
+Este texto é disponibilizado nos termos da licença Creative Commons - Atribuição - Compartilha Igual 3.0 Não Adaptada (CC BY-SA 3.0); pode estar sujeito a condições adicionais. Para mais detalhes, consulte as condições de uso.
+Política de privacidadeSobre a WikipédiaAvisos geraisProgramadoresDeclaração sobre cookiesVersão móvelWikimedia Foundation Powered by MediaWiki

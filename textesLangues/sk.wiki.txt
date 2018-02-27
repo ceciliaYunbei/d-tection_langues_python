@@ -1,0 +1,139 @@
+
+[skrij]
+Delovanje in razvoj Wikipedije omogočajo vaši prispevki!
+Splošna teorija relativnosti
+Iz Wikipedije, proste enciklopedije
+Splôšna teoríja rêlativnosti in ~ relatívnosti (tudi splošna relativnostna teorija ali skrajšano STR, angleško GR) je fizikalna teorija gravitacije, ki jo je leta 1915 razvil in leta 1916 objavil Albert Einstein. Splošna teorija relativnosti razlaga gravitacijsko silo kot posledico ukrivljenosti prostora-časa.
+
+Gre za posplošitev Einsteinove posebne teorije relativnosti, ki pravi, da je v inercialnih (nepospešenih) opazovalnih sistemih hitrost svetlobe konstantna, torej invariantna količina. Iz tega izhaja spoznanje, da fizikalne zakonitosti ne morejo biti odvisne od lege in gibanja opazovalca, spreminjajo se le enačbe, ki te zakonitosti opisujejo. Prek Lorentzovih transformacij, ki opisujejo navidezno skrčitev dolžin in podaljšanje časa, tako vidimo, da sta merjeni čas in dolžina odvisna od hitrosti gibanja opazovalca, torej sta relativna:
+
+{\displaystyle l=l'{\sqrt {(1-(v/c)^{2}}}\!\,,} {\displaystyle l=l'{\sqrt {(1-(v/c)^{2}}}\!\,,}
+{\displaystyle t={\frac {t'}{\sqrt {(1-(v/c)^{2}}}}\!\,.} {\displaystyle t={\frac {t'}{\sqrt {(1-(v/c)^{2}}}}\!\,.}
+Splošna teorija relativnosti je razširitev posebne teorije relativnosti na inercialne sisteme, torej sisteme, v katerih je prisotna gravitacijska sila. Glavni doprinos je v načinu gledanja na prostor in čas. V Newtonovem času so namreč gledali na prostor, kot na posodo v kateri se nahajajo snovna telesa (materialni objekti) in na čas kot na neko gonilo, s pomočjo katerega lahko razločimo dva dogodka. Splošna teorija relativnosti prostor in čas poenoti v prostor-čas, saj prostor brez časa ne more obstajati in obratno.
+
+V splošni teoriji relativnosti je lastni čas funkcija Newtonovega absolutnega časa. V tem nekateri vidijo pomanjkljivost teorije. Nekaj od teh pomanjkljivosti naj bi odpravila kronotopologija. V Schwarzschildovi metriki:
+
+{\displaystyle {\rm {d}}s^{2}=c^{2}\left(1-{\frac {r_{g}}{r}}\right){\rm {d}}t^{2}-r^{2}(\sin \theta \;{\rm {d}}\phi +{\rm {d}}\theta ^{2})-{\frac {{\rm {d}}r^{2}}{1-{\frac {r_{g}}{r}}}}\!\,} {\displaystyle {\rm {d}}s^{2}=c^{2}\left(1-{\frac {r_{g}}{r}}\right){\rm {d}}t^{2}-r^{2}(\sin \theta \;{\rm {d}}\phi +{\rm {d}}\theta ^{2})-{\frac {{\rm {d}}r^{2}}{1-{\frac {r_{g}}{r}}}}\!\,}
+ima na primer časovna spremenljivka vrednosti kot {\displaystyle t\in T=\mathbb {R} ^{1}} {\displaystyle t\in T=\mathbb {R} ^{1}}.
+
+Einsteinova splošna teorija relativnosti ima tudi globlji filozofski in življenjski pomen. Iste stvari namreč izgledajo drugače, če jih gledamo z drugačnega gledišča. Vse je relativno.
+
+Zunanje povezave[uredi | uredi kodo]
+Sašo Dolenc, Prostor-čas in gravitacija: uvod v splošno teorijo relativnosti, Kvarkadabra: http://www.kvarkadabra.net/?/vesolje/teksti/relativnost_splosna.htm
+Teorije gravitacije p • p • u • z
+Gravitacija	Tekmice STR	Teorije poenotenega polja	Druge
+Splošni gravitacijski zakon SGZ
+Klasična mehanika
+Splošna teorija relativnosti STR (Š)
+Polklasična gravitacija
+Tvistorska teorija
+Načelo ekvivalentnosti
+Gravitomagnetizem
+Matematika STR
+Preskusi STR
+Machovo načelo
+Klasične teorije gravitacije
+Konformna gravitacija
+Gravitacija f(R)
+Skalarne teorije
+Nordström
+Yilmaz
+Skalarno-tenzorske teorije
+Brans-Dicke
+Dilaton
+Samoustvarjalna kozmologija
+Bimetrične teorije
+Rosenova bimetrična teorija
+Druge teorije
+Einstein-Cartan
+Cartanova povezava
+Whitehead
+Nesimetrična gravitacija
+Skalarno-tenzorsko-vektorska
+Tenzorsko-vektorsko-skalarna
+Teorija supertekočega vakuuma
+Dinamična teorija (P)
+Teleparalelizem
+Geometrodinamika
+Kvantna gravitacija KG
+Nezvezna lorentzovska kvantna gravitacija
+Pojavljajoča gravitacija
+Evklidska KG
+Inducirana gravitacija
+Zančna kvantna gravitacija
+Wheeler-DeWittova enačba
+Teorija vsega
+Supergravitacija
+M-teorija
+Teorija superstrun (Š)
+Teorija strun
+Vsebine teorije strun
+Heim
+Večrazsežnostna STR
+Kaluza-Klein (Š)
+Model DGP
+Zamenjave za SGZ
+Aristotelska
+Boškovićeva
+Mehanske obravnave
+Fatio-Le Sage
+MOND
+Nerazvrščene
+Sestavljena gravitacija
+Masna gravitacija
+(Š) = škrbina
+(P) = psevdofizikalna
+
+
+
+
+Vodik	 Ta članek s področja fizike je škrbina. Pomagaj Wikipediji in ga razširi.
+Normativna kontrola
+GND: 4112491-1
+Kategorije: Teorije gravitacijeFizikalne škrbineSplošna področja fizikeSplošna teorija relativnostiOsnovni fizikalni koncepti1915 v znanosti1916 v znanostiAlbert Einstein
+Navigacijski meni
+Niste prijavljeniPogovorna stranPrispevkiUstvari računPrijavaStranPogovorPreberiUrediUredi kodoZgodovinaIskanje
+
+Iskanje po Wikipediji
+Pojdi na
+Glavna stran
+Dobrodošli
+Izbrani članki
+Naključni članek
+Zadnje spremembe
+Občestvo
+Portal občestva
+Pod lipo
+Kontaktna stran
+Pomoč
+Denarni prispevki
+Tiskanje/izvoz
+Ustvari e-knjigo
+Prenesi kot PDF
+Različica za tisk
+V drugih projektih
+Wikimedijina zbirka
+Orodja
+Kaj se povezuje sem
+Sorodne spremembe
+Posebne strani
+Trajna povezava
+Podatki o strani
+Objekt Wikipodatki
+Navedba članka
+V drugih jezikih
+Alemannisch
+Deutsch
+English
+Español
+Français
+Italiano
+Occitan
+Português
+中文
+Še 77
+Uredi povezave
+Čas zadnje spremembe: 12:44, 16. januar 2017.
+Besedilo se sme prosto uporabljati v skladu z dovoljenjem Creative Commons Priznanje avtorstva-Deljenje pod enakimi pogoji 3.0; uveljavljajo se lahko dodatni pogoji. Za podrobnosti glej Pogoje uporabe.
+Wikipedia® je tržna znamka neprofitne organizacije Wikimedia Foundation Inc.
+Politika zasebnostiO WikipedijiZanikanja odgovornostiRazvijalciO piškotkihMobilni pogledWikimedia Foundation Powered by MediaWiki

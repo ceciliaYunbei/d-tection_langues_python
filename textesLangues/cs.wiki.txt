@@ -1,0 +1,195 @@
+
+Obecná teorie relativity
+
+Dvoudimenzionální znázornění zakřivení časoprostoru. Přítomnost hmoty mění geometrii časoprostoru a tato (zakřivená) geometrie je chápána jako gravitace.
+Obecná teorie relativity je geometrická teorie gravitace, publikovaná Albertem Einsteinem v roce 1915[1], a také aktuální popis gravitace v moderní fyzice. Obecná teorie relativity zobecňuje speciální relativitu a Newtonův gravitační zákon, poskytuje jednotný popis gravitace jako geometrické vlastnosti prostoru a času neboli časoprostoru. Zejména zakřivení časoprostoru je v přímém vztahu k energii a hybnosti bez ohledu na přítomnost hmoty nebo záření. Vztah je určen Einsteinovými rovnicemi gravitačního pole, systémem parciálních diferenciálních rovnic.
+
+Některé předpovědi obecné teorie relativity se významně liší od klasické fyziky, zejména pokud jde o plynutí času, geometrii prostoru, pohyb těles při volném pádu a šíření světla. K příkladům takových rozdílů patří gravitační dilatace času, gravitační čočky, gravitační rudý posuv světla a gravitační časové zpoždění. Předpovědi obecné teorie relativity byly potvrzeny ve všech pozorováních a pokusech, které byly doposud provedeny. I když obecná teorie relativity není jediná relativistická teorie gravitace, tak je nejjednodušší teorie, která je v souladu s experimentálními daty. Nicméně i v ní zůstávají nezodpovězené otázky. Nejpodstatnější je, jak obecná teorie relativity může být v souladu se zákony kvantové mechaniky, abychom mohli vytvořit kompletní konzistentní teorii kvantové gravitace.
+
+Einsteinova teorie má důležité astrofyzikální důsledky. Implikuje například, že existují černé díry - oblastí prostoru, ve kterém prostor a čas jsou zkřiveny takovým způsobem, že nic, ani světlo, nemohou uniknout - jde o konečný stav pro hmotné hvězdy. Existuje dostatek důkazů, že intenzivní záření vydávané některými druhy astronomických objektů je kvůli černým dírám; například mikrokvasary a aktivní galaktická jádra vyplývají z přítomnosti hvězdných černých děr a obřích černých děr. Ohýbání světla gravitací může způsobit jev gravitační čočky, ve které je na nebi viditelné více obrazů stejně vzdáleného astronomického objektu. Obecná relativita také předpovídá existenci gravitačních vln, které od té doby byly fyziky přímo pozorovány prostřednictvím zařízení LIGO. Kromě toho je obecná teorie relativity základem současných kosmologických modelů trvale se rozpínajícího vesmíru.
+
+Obsah  [skrýt]
+1	Historie
+2	Obecná teorie relativity a speciální teorie relativity
+3	Základní principy
+4	Einsteinovy rovnice gravitačního pole
+5	Časoprostor jako zakřivená lorentzovská varieta
+6	Experimentální ověření obecné teorie relativity
+7	Odkazy
+7.1	Reference
+7.2	Související články
+7.3	Externí odkazy
+Historie[editovat | editovat zdroj]
+
+Albert Einstein objevil speciální i obecnou teorii relativity. Obrázek z roku 1921.
+Brzy po zveřejnění speciální teorie relativity v roce 1905, začal Einstein přemýšlet o tom, jak začlenit gravitaci do svého nového relativistického rámce. V roce 1907 začal s jednoduchým myšlenkovým experimentem zahrnující pozorovatele během volného pádu, a pustil se tak do toho, co bylo následným osmiletým hledáním relativistické teorie gravitace. Po četných oklikách a špatných startech jeho práce kulminovala v prezentaci pro Pruskou akademii věd v listopadu 1915 o tom, co je nyní známo jako Einsteinovy rovnice gravitačního pole. Tyto rovnice určují, jak je geometrie prostoru a času ovlivněna, i když není přítomna hmota ani záření, a tvoří jádro Einsteinovy ​​obecné teorie relativity.[2]
+
+Einsteinovy rovnice gravitačního pole jsou nelineární a velmi obtížně řešitelné. Einstein používal metody aproximace při práci na počátečních předpovědích teorie. Ale již na počátku roku 1916 astrofyzik Karl Schwarzschild našel první netriviální přesné řešení Einsteinových rovnic, tzv. Schwarzschildovu metriku. Toto řešení položilo základy pro popis konečné fáze gravitačního kolapsu, objektů známých dnes jako černé díry. Ve stejném roce byly podniknuty první kroky směrem k zobecnění Schwarzschildova řešení na elektricky nabité objekty, které nakonec vyústily v Reissner-Nordströmovo řešení, nyní spojené s elektricky nabitými černými děrami [3]. V roce 1917 Einstein aplikoval svoji teorii na vesmír jako celek, vytvořil tak oblast relativistické kosmologie. V souladu s tehdejším moderním myšlením předpokládal existenci statického vesmíru, přidal nový parametr do svých původních rovnic,- kosmologickou konstantu tak, aby odpovídala pozorovací domněnce.[4] Nicméně v roce 1929 práce Edwina Hubbla a dalších ukázaly, že se náš vesmír rozpíná. To je snadno popsatelné pomocí expandujícího kosmologického řešení nalezeného Alexandrem Fridmanem v roce 1922, které nevyžaduje kosmologickou konstantu. Georges Lemaître použil tato řešení, aby formuloval nejstarší verzi modelů Velkého třesku, v nichž se náš vesmír vyvinul z extrémně horkého a hustého dřívějšího stavu.[5] Einstein později prohlásil, že kosmologická konstanta byla největší hrubá chyba jeho života.[6]
+
+Během tohoto období obecná teorie relativity zůstala něco jako kuriozita mezi fyzikálními teoriemi. Byla jasně lepší než Newtonův gravitační zákon, je v souladu se speciální teorií relativity a vyřešila několik efektů nevysvětlitelných podle Newtonovy teorie. Einstein sám ukázal už v roce 1915, jak jeho teorie vysvětli anomálii ve stáčení perihelia planety Merkur bez jakýchkoliv svévolných parametrů („zfalšované/ zfušované faktory“).[7] Expedice vedená Arthurem Eddingtonem podobně v roce 1919 potvrdila předpověď obecné teorie relativity pro stáčení paprsků od Slunce během úplného zatmění Slunce dne 29. května 1919[8], což udělalo Einsteina okamžitě slavným.[9] Teorie vstoupila do hlavního proudu teoretické fyziky a astrofyziky s velkým rozvojem mezi lety přibližně 1960 a 1975, nyní známé jako zlatý věk obecné teorie relativity.[10] Fyzikové začali chápat pojem černé díry a identifikovat kvasary jako jedny z astrofyzikálních projevů těchto objektů.[11] Stále přesnější testy ve sluneční soustavě potvrdily predikční sílu teorie a relativistická kosmologie se také stala přístupnou pro přímé pozorovací testy.[12]
+
+Obecná teorie relativity a speciální teorie relativity[editovat | editovat zdroj]
+Obecnou relativitu lze chápat také jako rozšíření speciální relativity. Starší teorie poskytuje správný popis elektrodynamiky a šíření světla v inerciálních vztažných soustavách a opravuje nepřesnosti Newtonovy mechaniky při vysokých rychlostech. Obecná relativita navíc hraje mezi fyzikálními teoriemi jedinečnou roli v tom smyslu, že vykládá gravitační pole jako geometrický fenomén. Přesněji řečeno předpokládá, že libovolný objekt s vlastní hmotností zakřivuje časoprostor, ve kterém se nachází, a toto zakřivení se projevuje jako gravitace. Abychom pochopili tuto rovnost, není dobré uvažovat, že by gravitace způsobovala nebo byla způsobována zakřivením časoprostoru, ale spíše, že gravitace je zakřivení časoprostoru. Teorie od svého formulování v roce 1915 dodnes přežila všechny experimenty pokoušející se o její vyvrácení.
+
+Obecná teorie relativity bývá také označována jako Einsteinova gravitační teorie.
+
+Základní principy[editovat | editovat zdroj]
+Obecnou teorii relativity lze postavit na dvou postulátech:
+
+Všechny fyzikální zákony ve všech vztažných soustavách mají stejný tvar a lze je vyjádřit stejnými rovnicemi.
+Gravitační a setrvačné síly mají stejnou fyzikální podstatu a platí pro ně stejné fyzikální zákony (tzv. princip ekvivalence).
+Tyto postuláty bývají také formulovány v jiné podobě:
+
+Obecný princip relativity: Fyzikální zákony jsou stejné pro všechny pozorovatele.
+Princip obecné kovariance: Fyzikální zákony mají stejnou formu nezávisle na vztažné soustavě.
+Volné testovací částice se pohybují po geodetikách.
+Princip lokální lorentzovské invariance: Pro všechny volné pozorovatele platí lokálně zákony speciální teorie relativity.
+Časoprostor je obecně zakřivený.
+Zakřivení časoprostoru je udáváno rozložením energie a hybnosti v časoprostoru.
+Einsteinovy rovnice gravitačního pole[editovat | editovat zdroj]
+Základní vztah mezi zakřivením časoprostoru a rozložením energie a hybnosti vyjadřují Einsteinovy rovnice gravitačního pole.
+
+Rovnice vychází z toho, že fyzikálnímu poli lze přiřadit symetrický tenzor energie a hybnosti {\displaystyle T^{\iota \kappa }} T^{\iota\kappa}. Dále se v teorii relativity předpokládá, že gravitační pole v daném bodě {\displaystyle x^{\lambda }} x^\lambda je možné popsat deseti funkcemi {\displaystyle g^{\iota \kappa }(x^{\lambda })} g^{\iota\kappa}(x^\lambda), {\displaystyle \iota ,\kappa =0,1,2,3} \iota ,\kappa =0,1,2,3 (viz metrický tenzor).
+
+Einsteinovy rovnice je možné zapsat ve tvaru
+
+{\displaystyle G^{\iota \kappa }(g_{\mu \nu ,\pi \rho },g_{\mu \nu ,\pi },g_{\mu \nu })=\varkappa T^{\iota \kappa }(g_{\mu \nu ,\rho },g_{\mu \nu },\phi )} G^{\iota\kappa}(g_{\mu\nu,\pi \rho}, g_{\mu\nu,\pi}, g_{\mu\nu})=\varkappa T^{\iota\kappa}(g_{\mu\nu,\rho}, g_{\mu\nu},\phi) ,
+kde {\displaystyle T^{\iota \kappa }} T^{\iota\kappa} je tenzor energie a hybnosti, {\displaystyle G^{\iota \kappa }} G^{\iota\kappa} je Einsteinův tenzor a symbol {\displaystyle \phi } \phi  je označením pro všechna ostatní fyzikální pole čistě negeometrické povahy (včetně jejich derivací), jako je např. hmotný prach, tekutina nebo elektromagnetické pole. {\displaystyle \varkappa } \varkappa je Einsteinova gravitační konstanta
+
+{\displaystyle \varkappa ={\frac {8\pi G}{c^{4}}}} \varkappa = \frac{8\pi G}{c^4}.
+V tomto vzorci je {\displaystyle G} G Newtonova gravitační konstanta a {\displaystyle c} c je rychlost světla.
+
+O Einsteinovu tenzoru {\displaystyle G^{\iota \kappa }} G^{\iota\kappa} lze předpokládat, že závisí pouze na metrickém tenzoru a jeho parciálních derivacích podle {\displaystyle x^{\lambda }} x^\lambda nejvýše do druhého řádu. Obvykle se také požaduje, aby {\displaystyle G^{\iota \kappa }} G^{\iota\kappa} záviselo na druhých derivacích metrického tenzoru lineárně, což lze zapsat jako
+
+{\displaystyle {\frac {\partial ^{2}G^{\iota \kappa }}{\partial g_{\rho \sigma ,\tau \mu }\partial g_{\alpha \beta ,\gamma \delta }}}=0} \frac{\part^2G^{\iota\kappa}}{\part g_{\rho\sigma,\tau\mu}\part g_{\alpha\beta,\gamma\delta}} = 0.
+Zákon zachování energie a hybnosti omezuje pravou stranu Einsteinových rovnic podmínkou {\displaystyle T_{;\kappa }^{\iota \kappa }=0} T^{\iota\kappa}_{;\kappa}=0. Divergence levé strany Einsteinových rovnic tedy musí být identicky nulová, tzn. {\displaystyle G_{;\iota }^{\iota \kappa }=0} G^{\iota\kappa}_{;\iota}=0.
+
+Lze ukázat, že pokud má {\displaystyle G^{\iota \kappa }} G^{\iota\kappa} záviset pouze na metrickém tenzoru a jeho derivacích, pak je tvar {\displaystyle G^{\iota \kappa }} G^{\iota\kappa} určen až na konstanty {\displaystyle a_{1},a_{2},a_{3}} a_1, a_2, a_3 jako
+
+{\displaystyle G^{\iota \kappa }=a_{1}R^{\iota \kappa }+a_{2}Rg^{\iota \kappa }+a_{3}g^{\iota \kappa }} G^{\iota\kappa} = a_1R^{\iota\kappa} + a_2Rg^{\iota\kappa} + a_3g^{\iota\kappa}
+kde {\displaystyle R^{\iota \kappa }} R^{\iota\kappa} je Ricciho tenzor a {\displaystyle R} R je skalární křivost.
+
+Srovnáním tohoto vztahu se zúženými formami Riemannova tenzoru lze dojit k závěru, že můžeme položit {\displaystyle a_{1}=-1} a_1=-1 a {\displaystyle a_{2}={\frac {1}{2}}} a_2=\frac{1}{2}. Konstanta {\displaystyle a_{3}} a_3 zůstává neurčena. Zavedeme-li novou konstantu {\displaystyle \Lambda =-a_{3}} \Lambda=-a_3, můžeme rovnici popisující gravitační zákon vyjádřit jako
+
+{\displaystyle R^{\iota \kappa }-{\frac {1}{2}}Rg^{\iota \kappa }-\Lambda g^{\iota \kappa }=\varkappa T^{\iota \kappa }} R^{\iota\kappa} - \frac{1}{2}Rg^{\iota\kappa} - \Lambda g^{\iota\kappa} = \varkappa T^{\iota\kappa}
+Konstanta {\displaystyle \Lambda } \Lambda  se označuje jako kosmologická konstanta. Konstanta {\displaystyle \Lambda } \Lambda  hraje úlohu pouze v kosmologických měřítkách. Pokud řešíme problémy, které nejsou kosmologického charakteru, klademe {\displaystyle \Lambda =0} \Lambda=0, tzn.
+
+{\displaystyle R^{\iota \kappa }-{\frac {1}{2}}Rg^{\iota \kappa }=\varkappa T^{\iota \kappa }} R^{\iota\kappa} - \frac{1}{2}Rg^{\iota\kappa} =\varkappa T^{\iota\kappa}
+Zúžením této dostaneme skalární rovnici
+
+{\displaystyle R=\varkappa T} R=\varkappa T
+S pomocí této rovnice lze předchozí rovnici upravit na
+
+{\displaystyle R^{\iota \kappa }=\varkappa (T^{\iota \kappa }-{\frac {1}{2}}Tg^{\iota \kappa })} R^{\iota\kappa} = \varkappa(T^{\iota\kappa}-\frac{1}{2}Tg^{\iota\kappa})
+V prázdném prostoru, tedy v dokonalém vakuu, platí
+
+{\displaystyle T^{\iota \kappa }=0} T^{\iota\kappa}=0
+V takovém případě platí {\displaystyle R=0} R=0 Odtud plyne, že v prázdném prostoru se rovnice gravitačního pole redukují na tvar
+
+{\displaystyle R^{\iota \kappa }=0} R^{\iota\kappa} = 0
+Einsteinovy rovnice gravitačního pole, představují systém deseti nelineárních parciálních diferenciálních rovnic. Tyto rovnice tvoří základ obecné teorie relativity.
+
+Vzhledem k tomu, že tyto rovnice jsou nelineární, neplatí v obecné teorii relativity princip superpozice.
+
+Časoprostor jako zakřivená lorentzovská varieta[editovat | editovat zdroj]
+V obecné relativitě se používá širší zavedení časoprostoru, než ve speciální teorii relativity. V obecné teorii relativity je časoprostor:
+
+zakřivený: má neeuklidovskou geometrii. Oproti tomu ve speciální relativitě je časoprostor plochý.
+lorentzovský: Metrika časoprostoru musí mít smíšenou signaturu, což je stejné jako ve speciální relativitě.
+čtyřrozměrný: aby byly zastoupeny jak tři prostorové rozměry tak čas. Toto je rovněž převzaté ze speciální relativity.
+Zakřivení časoprostoru (způsobené přítomností hmoty a hybnosti) si lze názorně představit např. následujícím způsobem. Umístíme-li těžký předmět (např. bowlingovou kouli) na trampolínu, vznikne v ní prohlubeň, která povrch trampolíny zakřivuje. Obdobně přítomnost velkého množství hmoty zakřivuje ve svém blízkém okolí časoprostor, jak ilustruje obrázek výše. Je-li přitom těleso hmotnější, zakřivuje časoprostor ve větším rozsahu a více (srovnejme v naší analogii s trampolínou např. zakřivení způsobené bowlingovou koulí a tenisovým míčkem). Obdobně zakřivení závisí na hustotě (kulička ze železa zakřiví trampolínu více než stejně velká kulička z plastu.) Pokud cvrnkneme do takto vzniklého důlku malou kuličku správnou rychlostí, bude v něm „obíhat“ kolem bowlingové koule. To je analogické s obíháním planet v gravitačním poli.
+
+Je zde rovněž patrná skutečnost, že obecná relativita neuvažuje s působením síly na dálku, jako u Newtonovy teorie gravitace, ale že testovací částice reaguje na zakřivení časoprostoru tak, aby se pohybovala po nejpřímější dráze (speciálně skutečnost, že je dráha nejpřímější z analogie vidět není, to je pravda jen v časoprostoru se smíšenou signaturou metriky) a zakřivení časoprostoru zpětně reaguje na rozložení hmoty.
+
+Experimentální ověření obecné teorie relativity[editovat | editovat zdroj]
+Stáčení perihelia Merkuru
+Ohyb elektromagnetického záření v gravitačním poli, Gravitační čočka
+Gravitační rudý posuv
+Shapirův test, jehož základem je Shapirův efekt
+Odkazy[editovat | editovat zdroj]
+Reference[editovat | editovat zdroj]
+V tomto článku byl použit překlad textu z článku General relativity na anglické Wikipedii.
+
+Skočit nahoru ↑ O'Connor, J.J. and Robertson, E.F. (1996), General relativity. Mathematical Physics index, School of Mathematics and Statistics, University of St. Andrews, Scotland. Retrieved 2015-02-04.
+Skočit nahoru ↑ Pais 1982, str. 9 až 15, Janssen 2005; aktualizovaný přehled současného výzkumu, včetně přetisků mnoha původních článků, je Renn 2007; přístupný přehled lze nalézt v Renn 2005, pp. 110ff. Raný klíčový článek je Einstein 1907, viz Pais 1982, ch. 9. Publikace představující sadu rovnic je Einstein 1915, viz Pais 1982, ch. 11–15
+Skočit nahoru ↑ Schwarzschild 1916a, Schwarzschild 1916b a Reissner 1916 (později doplněné v Nordström 1918)
+Skočit nahoru ↑ Einstein 1917 viz Pais 1982, ch. 15e
+Skočit nahoru ↑ Hubblův původní článek je Hubble 1929, přístupný přehled je uveden v Singh 2004, ch. 2–4
+Skočit nahoru ↑ Jak je uvedeno v Gamow 1970, Einsteinovo odsouzení bylo předčasné.
+Skočit nahoru ↑ Pais 1982, pp. 253–254
+Skočit nahoru ↑ Kennefick 2005 Kennefick 2007
+Skočit nahoru ↑ Pais 1982, ch. 16
+Skočit nahoru ↑  (2003)"Warping spacetime", The future of theoretical physics and cosmology: celebrating Stephen Hawking's 60th birthday. Cambridge University Press, 74. ISBN 0-521-82081-2. Extrakt na straně 74
+Skočit nahoru ↑ Israel 1987, ch. 7.8–7.10 Thorne 1994, ch. 3–9
+Skočit nahoru ↑ Overbye 1999
+PAIS, Abraham. 'Subtle is the Lord...' The Science and life of Albert Einstein. [s.l.] : Oxford University Press, 1982. ISBN 0-19-853907-X.
+JANSSEN, Michel. Of pots and holes: Einstein's bumpy road to general relativity. Ann. Phys. (Leipzig). 2005, čís. 14, s. 58–85. Dostupné online. DOI:10.1002/andp.200410130.
+The Genesis of General Relativity (4 číslos). [s.l.] : Springer, 2007. ISBN 1-4020-3999-9.
+Albert Einstein—Chief Engineer of the Universe: Einstein's Life and Work in Context. [s.l.] : Wiley-VCH, 2005. ISBN 3-527-40571-2.
+EINSTEIN, Albert. Über das Relativitätsprinzip und die aus demselben gezogene Folgerungen. Jahrbuch der Radioaktivität und Elektronik. 1907, čís. 4. Dostupné online.
+SCHWARZSCHILD, Karl. Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie. Sitzungsber. Preuss. Akad. D. Wiss.. 1916a, s. 189–196. Dostupné online.
+SCHWARZSCHILD, Karl. Über das Gravitationsfeld eines Kugel aus inkompressibler Flüssigkeit nach der Einsteinschen Theorie. Sitzungsber. Preuss. Akad. D. Wiss.. 1916b, s. 424–434. Dostupné online.
+REISSNER, H.. Über die Eigengravitation des elektrischen Feldes nach der Einsteinschen Theorie. Annalen der Physik. 1916, čís. 355, s. 106–120. DOI:10.1002/andp.19163550905.
+NORDSTRÖM, Gunnar. On the Energy of the Gravitational Field in Einstein's Theory. Verhandl. Koninkl. Ned. Akad. Wetenschap.,. 1918, čís. 26, s. 1238–1245.
+EINSTEIN, Albert. Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie. Sitzungsberichte der Preußischen Akademie der Wissenschaften. 1917.
+HUBBLE, Edwin. A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae. Proc. Nat. Acad. Sci.. 1929, čís. 15, s. 168–173. Dostupné online. DOI:10.1073/pnas.15.3.168. PMID 16577160.
+SINGH, Simon. Big Bang: The Origin of the Universe. [s.l.] : Fourth Estate, 2004. ISBN 0-00-715251-5.
+GAMOW, George. My World Line. [s.l.] : Viking Press, 1970. ISBN 0-670-50376-2.
+KENNEFICK, Daniel. One hundred authors for Einstein. [s.l.] : Wiley-VCH, 2005. ISBN 3-527-40574-7. S. 178–181.
+KENNEFICK, Daniel. Proceedings of the 7th Conference on the History of General Relativity, Tenerife, 2005. [s.l.] : [s.n.], 2007.
+HAWKING, Stephen W.. 300 Years of Gravitation. [s.l.] : Cambridge University Press, 1987. ISBN 0-521-37976-8. S. 631–651.
+THORNE, Kip S.. Black Holes and Time Warps: Einstein's Outrageous Legacy. [s.l.] : W W Norton & Company, 1994. ISBN 0-393-31276-3.
+Související články[editovat | editovat zdroj]
+Teorie relativity
+Speciální teorie relativity
+Eötvösův experiment
+Gravitační vlny
+Externí odkazy[editovat | editovat zdroj]
+Logo Wikimedia Commons Obrázky, zvuky či videa k tématu obecná teorie relativity ve Wikimedia Commons
+Obecná teorie relativity na Aldebaranu
+Portály: Fyzika
+Kategorie: Relativistická fyzikaTeorie gravitaceFyzikální teorieObecná teorie relativity
+Navigační menu
+Nejste přihlášen(a)DiskusePříspěvkyVytvoření účtuPřihlášeníČlánekDiskuseČístEditovatEditovat zdrojZobrazit historiiHledání
+
+Hledat na Wikipedii
+Jít na
+Hlavní strana
+Nejlepší články
+Náhodný článek
+Poslední změny
+Komunitní portál
+Pod lípou
+Nápověda
+Potřebuji pomoc
+Podpořte Wikipedii
+Tisk/export
+Vytvořit knihu
+Stáhnout jako PDF
+Verze k tisku
+Na jiných projektech
+Wikimedia Commons
+Nástroje
+Odkazuje sem
+Související změny
+Načíst soubor
+Speciální stránky
+Trvalý odkaz
+Informace o stránce
+Položka Wikidat
+Citovat stránku
+V jiných jazycích
+Alemannisch
+Deutsch
+English
+Español
+Français
+Italiano
+Occitan
+Português
+中文
+77 dalších
+Upravit odkazy
+Stránka byla naposledy editována 6. 12. 2016 v 18:17.
+Text je dostupný pod licencí Creative Commons Uveďte původ-Zachovejte licenci 3.0 Unported, případně za dalších podmínek. Podrobnosti naleznete na stránce Podmínky užití.
+Ochrana osobních údajůO WikipediiVyloučení odpovědnostiVývojářiProhlášení o cookiesMobilní verzeWikimedia Foundation Powered by MediaWiki
